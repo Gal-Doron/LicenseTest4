@@ -1,0 +1,17 @@
+{
+  "scanSettings": {
+    "configMode": "AUTO",
+    "configExternalURL": "",
+    "projectToken": "",
+    "enableLicenseViolations": true,
+    "baseBranches": ["main"]
+  },
+  "checkRunSettings": {
+    "licenseCheckRunConclusionLevel": "failure",
+    "vulnerableCheckRunConclusionLevel": "failure",
+    "displayMode": "diff"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "NONE"
+  }
+}
